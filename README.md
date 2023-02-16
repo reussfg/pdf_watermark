@@ -3,6 +3,7 @@
 This is a Python script that adds a watermark to a set of PDF files using the pdfrw library. The script searches for all PDF files in a specified directory and applies a watermark to each page of each file. The watermarked PDF files are saved to a new directory.
 
 **Requirements**
+
 Python 3
 pdfrw library
 
